@@ -1,0 +1,114 @@
+2024-03-22 21:42:58,996:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-22 21:42:58,997:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-22 21:42:58,997:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-22 21:42:58,997:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-22 21:43:00,005:WARNING:C:\Users\alexs\AppData\Local\Temp\ipykernel_3108\3331029900.py:4: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(target, kde=True, fit=scipy.stats.norm)
+
+2024-03-22 21:43:00,086:WARNING:C:\Users\alexs\AppData\Local\Temp\ipykernel_3108\3331029900.py:9: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(np.log(target), kde=True, fit=scipy.stats.norm) #минимум выше нуля
+
+2024-03-22 21:43:15,897:WARNING:C:\Users\alexs\AppData\Local\Temp\ipykernel_3108\3331029900.py:4: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(target, kde=True, fit=scipy.stats.norm)
+
+2024-03-22 21:43:15,957:WARNING:C:\Users\alexs\AppData\Local\Temp\ipykernel_3108\3331029900.py:9: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(np.log(target), kde=True, fit=scipy.stats.norm) #минимум выше нуля
+
+2024-03-22 21:52:57,304:WARNING:C:\Users\alexs\AppData\Local\Temp\ipykernel_3108\3331029900.py:4: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(target, kde=True, fit=scipy.stats.norm)
+
+2024-03-22 21:52:57,367:WARNING:C:\Users\alexs\AppData\Local\Temp\ipykernel_3108\3331029900.py:9: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(np.log(target), kde=True, fit=scipy.stats.norm) #минимум выше нуля
+
+2024-03-22 21:53:27,740:WARNING:C:\Users\alexs\AppData\Local\Temp\ipykernel_3108\3331029900.py:4: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(target, kde=True, fit=scipy.stats.norm)
+
+2024-03-22 21:53:27,808:WARNING:C:\Users\alexs\AppData\Local\Temp\ipykernel_3108\3331029900.py:9: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(np.log(target), kde=True, fit=scipy.stats.norm) #минимум выше нуля
+
+2024-03-22 21:54:39,734:WARNING:<unknown>:1: SyntaxWarning: invalid decimal literal
+
+2024-03-22 21:54:39,895:WARNING:<unknown>:1: SyntaxWarning: invalid decimal literal
+
+2024-03-22 21:54:40,113:WARNING:<unknown>:1: SyntaxWarning: invalid decimal literal
+
+2024-03-22 21:54:40,270:WARNING:<unknown>:1: SyntaxWarning: invalid decimal literal
+
+2024-03-22 21:54:40,662:WARNING:<unknown>:1: SyntaxWarning: invalid decimal literal
+
